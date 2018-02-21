@@ -1,0 +1,30 @@
+.container {
+  max-width: 1000px;
+  margin: 25px auto;
+  padding: 10px;
+  border: solid black;
+  margin-top: 20px;
+}
+
+#header {
+  text-align: center;
+  font-size: 60px;
+  margin: 0px auto;
+}
+
+#contact {
+  font-size: 14px;
+  text-align: center;
+}
+
+.resume-item {
+  max-width: 1000px;
+  margin: 25px auto;
+  padding: 10px;
+  border: none;
+  margin-top: 20px;
+}
+
+h1 {
+  margin-left: 20px;
+}
